@@ -1,6 +1,7 @@
 #  Bem-vindo ao Conecta 2030 👋
 
-![ROTA2030-02](https://github.com/conecta-2030/.github/assets/64169072/2a163566-326d-4c80-9653-dd29d75ae0b8)
+![image](https://github.com/user-attachments/assets/98676e77-b801-444d-b7f8-a1dfe753af4d)
+
 
 Somos um time de desenvolvimento apaixonado e inovador, embarcando na empolgante jornada de construir um ecossistema-conceito revolucionário. Nosso foco está na integração de tecnologias avançadas, como C-V2X e 5G, para promover a conectividade entre dispositivos equipados com sistemas de assistência ao condutor (ADAS). Este projeto desafia nossa criatividade ao abraçar a comunicação V2V, V2I, V2P e V2C. Visualizamos um futuro onde a tecnologia redefine a mobilidade, aprimorando segurança e eficiência. Com uma abordagem iterativa e colaborativa, estamos moldando não apenas um ecossistema, mas o futuro da conectividade e mobilidade. Junte-se a nós nesta emocionante jornada, pois esta é apenas a primeira página de nossa história. 🚀🌐💡
 
